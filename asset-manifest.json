@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/unoai/static/css/main.bbaebe93.css",
+    "main.js": "/unoai/static/js/main.6136a00c.js",
+    "index.html": "/unoai/index.html",
+    "main.bbaebe93.css.map": "/unoai/static/css/main.bbaebe93.css.map",
+    "main.6136a00c.js.map": "/unoai/static/js/main.6136a00c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbaebe93.css",
+    "static/js/main.6136a00c.js"
+  ]
+}
