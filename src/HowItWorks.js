@@ -8,7 +8,10 @@ const HowItWorks = () => {
     <>
       <section>
         <div className="work-container container">
-          <h1 className="main-heading text-center">How does it Work</h1>
+          <h1 className="main-heading text-center">Industries we serve</h1>
+          <h2 className="main-sub-heading text-center"> We serve businesses across various Industries and domains.
+            Some of our prominent clients operate in the Industries below.
+          </h2>
           <div className="row">
             {workData.map((curElem) => {
               const { id, logo, title, info } = curElem;

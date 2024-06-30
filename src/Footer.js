@@ -70,8 +70,8 @@ const Footer = () => {
                     </div>
                     <div className="col-3 mx-auto">
                       <a
-                        href="https://www.instagram.com/thapatechnical/"
-                        target="_thapa">
+                        href="https://www.instagram.com/"
+                        target="_unoai">
                         <i class="fab fa-instagram fontawesome-style"></i>
                       </a>
                     </div>
@@ -87,7 +87,7 @@ const Footer = () => {
               <hr />
               <div className="mt-5">
                 <p className="main-hero-para text-center w-100">
-                  Copyright @ 2021 ThapaPay. All rights reserved.
+                  Copyright @ 2024 UNO.ai All rights reserved.
                 </p>
               </div>
             </div>

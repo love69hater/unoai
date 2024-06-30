@@ -8,8 +8,11 @@ const Services = () => {
       <section className="service-main-container">
         <div className="container service-container">
           <h1 className="main-heading text-center fw-bold">
-            How to send money
+            Our Services
           </h1>
+          <h3 className="main-sub-heading text-center">
+          Empowering Your Transformation with Tailored Tech and Business Solutions to diverse technology and business needs cutting across Business Consulting,AI,Cloud,Cyber,Automation and Staffing.
+          </h3>
           <div className="row">
             {serviceData.map((curElem) => {
               const { id, logo, title, info } = curElem;
